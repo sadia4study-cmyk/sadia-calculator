@@ -1,1 +1,1 @@
-# sadia-calculator
+# sadiacalculator
